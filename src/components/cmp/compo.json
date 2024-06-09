@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_cmp_compos",
+  "info": {
+    "displayName": "compo",
+    "icon": "bell",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "C_name": {
+      "type": "string"
+    }
+  }
+}
